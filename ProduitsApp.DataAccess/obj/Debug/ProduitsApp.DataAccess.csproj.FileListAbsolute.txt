@@ -1,0 +1,1 @@
+c:\users\h.grira\documents\visual studio 2013\Projects\Projetadvancia\ProduitsApp.DataAccess\obj\Debug\ProduitsApp.DataAccess.csprojResolveAssemblyReference.cache
